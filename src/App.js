@@ -1,4 +1,20 @@
-import logo from './logo.svg';
+/*import React from "react";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import AppView from "./views/front/AppView"
+import LoginView from "./views/front/LoginView"
+
+export default function App() {
+  return (
+    <BrowserRouter>
+    <Routes>
+    <Route path='/' element={<AppView/>}>
+    <Route path='login' element={<LoginView/>}></Route>
+      </Route>
+    </Routes>
+    </BrowserRouter>
+  )
+}*/
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -22,4 +38,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/

@@ -1,0 +1,27 @@
+.MuiBox-root {
+  text-align: end;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 0.7em !important;
+  padding: 15px !important;
+  text-align: right;
+}
+.Mui-error {
+  text-align: right !important;
+  font-family: system-ui !important;
+}
+.css-1wnsr1i {
+  border: none !important;
+}
+.MuiList-root.MuiList-padding.MuiMenu-list.css-6hp17o-MuiList-root-MuiMenu-list {
+  direction: rtl;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  margin-top: 15px !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .css-1wnsr1i {
+    width: 335px;
+  }
+}

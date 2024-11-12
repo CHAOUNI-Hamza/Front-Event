@@ -1,0 +1,20 @@
+/*.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  text-align: left;
+}
+.css-1gpyebh-MuiTypography-root {
+  text-align: left;
+}
+.css-q74est-MuiTypography-root {
+  text-align: left;
+}*/
+.MuiBox-root.css-164r41r
+  .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root
+  .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  text-align: left;
+}
+.MuiBox-root.css-164r41r .css-1gpyebh-MuiTypography-root {
+  text-align: left;
+}
+.MuiBox-root.css-164r41r .css-q74est-MuiTypography-root {
+  text-align: left;
+}

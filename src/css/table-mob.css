@@ -1,0 +1,16 @@
+.css-1q1u3t4-MuiTableRow-root {
+  background: #00b0ff;
+}
+.css-1azl6jz-MuiTableCell-root {
+  color: rgba(255, 255, 255, 0.87) !important;
+}
+.css-1qjjqp2-MuiPaper-root-MuiTableContainer-root {
+  margin-top: 0 !important;
+  padding: 0 !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .css-4cq49v {
+    margin-top: 0 !important;
+  }
+}

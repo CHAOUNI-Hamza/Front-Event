@@ -1,0 +1,18 @@
+.css-160oh35-MuiButtonBase-root-MuiCardActionArea-root {
+  text-align: -webkit-center !important;
+}
+.css-8a99xp-MuiCardMedia-root {
+  object-fit: scale-down !important;
+}
+@media only screen and (max-width: 767px) {
+  .css-1fq9bxc-MuiTypography-root,
+  .css-jd2o70-MuiTypography-root {
+    font-size: 1rem !important;
+  }
+  .css-cqhebg-MuiGrid-root > .MuiGrid-item {
+    margin: 10px;
+  }
+  .css-1rv3ei8-MuiFormControl-root-MuiTextField-root {
+    width: 100%;
+  }
+}

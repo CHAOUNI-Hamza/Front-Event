@@ -1,0 +1,50 @@
+.css-1q1u3t4-MuiTableRow-root {
+  background: #00b0ff;
+}
+.css-1azl6jz-MuiTableCell-root {
+  color: rgba(255, 255, 255, 0.87) !important;
+}
+.css-1qjjqp2-MuiPaper-root-MuiTableContainer-root {
+  margin-top: 0 !important;
+  padding: 0 !important;
+}
+
+/* HTML: <div class="loader"></div> */
+.loader {
+  width: 15px;
+  aspect-ratio: 1;
+  position: relative;
+  text-align: center;
+}
+.loader::before,
+.loader::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: #000;
+}
+.loader::before {
+  box-shadow: -26px 0;
+  animation: l10-1 1.5s infinite linear;
+}
+.loader::after {
+  transform: rotate(0deg) translateX(26px);
+  animation: l10-2 1.5s infinite linear;
+}
+@keyframes l10-1 {
+  50% {
+    transform: translateX(26px);
+  }
+}
+@keyframes l10-2 {
+  100% {
+    transform: rotate(-360deg) translateX(26px);
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .css-4cq49v {
+    margin-top: 0 !important;
+  }
+}

@@ -1,0 +1,11 @@
+.size {
+  font-size: 18px !important;
+}
+@media only screen and (max-width: 767px) {
+  .css-heg063-MuiTabs-flexContainer {
+    display: grid !important;
+  }
+  .css-1aquho2-MuiTabs-indicator {
+    display: none;
+  }
+}
